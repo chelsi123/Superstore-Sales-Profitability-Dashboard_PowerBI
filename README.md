@@ -1,7 +1,6 @@
 # 📊 Sales Performance Dashboard — Power BI
 
 This Power BI project provides a clear and interactive analysis of Sales, Profit, Quantity, and Category performance.  
-It demonstrates strong skills in **data cleaning, data modelling, DAX, and dashboard design**—ideal for Data Analyst and Business Intelligence roles.
 
 ---
 
@@ -34,7 +33,8 @@ These measures help uncover patterns in sales and profitability.
 - Sub-category Trends  
 - Regional or Customer Segment insights (based on available data)  
 - Monthly Sales Line Chart  
-- Clean, modern, easy-to-read layout  
+- Clean, modern, easy-to-read layout
+- Sales Forecast for 15 Days
 
 ### **Slicers Included**
 - **Date Slicer** (for time-based analysis)  
