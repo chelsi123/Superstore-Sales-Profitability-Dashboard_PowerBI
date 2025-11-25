@@ -38,7 +38,7 @@ These measures help uncover patterns in sales and profitability.
 
 ### **Slicers Included**
 - **Date Slicer** (for time-based analysis)  
-- **Category Slicer** (for product-level filtering)
+
 
 ---
 
